@@ -1,4 +1,5 @@
 a = 1
 b = 2
-soma = a + b
+c = 3
+soma = a + b + c
 print('O resultado é:',soma)
